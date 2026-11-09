@@ -15,7 +15,7 @@ I am a developer using GitHub to track my journey, building and experimenting wi
 
 ### 🛠️ Tech Stack & Tools
 * **Languages:** Python
-* **AI Libraries:** OpenAI API, Hugging Face, LangChain (or list yours here)
+* **AI Libraries:** OpenAI API, Claude API, Hugging Face
 * **Environment:** VS Code, Git
 
 ---
